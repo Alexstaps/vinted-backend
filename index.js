@@ -34,15 +34,3 @@ app.listen(process.env.PORT, () => {
     console.log("serveur started");
 });
 
-
-
-
-
-
-// lire l’énoncée
-// re-lire l’énoncée
-// faire la route
-// lui envoyer un form-data en vérifiant qu’elle le reçoit bien
-// uploader l’image sur cloudinary
-// enregistrer l’offre en BDD
-// Faire le middleware
